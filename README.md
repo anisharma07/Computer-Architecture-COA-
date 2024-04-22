@@ -1,6 +1,6 @@
 <!-- Table of content -->
-# Table of Content 
-(COA lab - CS-224)
+# Table of Content        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            - _(COA lab - CS-224)_
+
 ## Codes
 
 - Half Adder
